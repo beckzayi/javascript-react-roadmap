@@ -12,3 +12,7 @@ As there are so many web technologies that developers need to learn, we here try
 ## Redux
 
 * [Redux Basics](/docs/redux-basics.md)
+* [How to connect Redux to React](/docs/redux-connect-react.md)
+
+## MongoDB
+* [Start MongoDB](/docs/redux-basics.md)
