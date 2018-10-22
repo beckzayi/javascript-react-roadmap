@@ -2,6 +2,10 @@
 
 Presentational components are written as functional components unless they need state, lifecyle hooks, or performance optimizations.
 
+Presentational components receive props and render UI. They also receive actions and pass them back to the container. They either only have a `render()` method or they are stateless functional components.
+
+Container compoents manage state and pass it to presentationational components.
+
 A functional component using an ES2015 (ES6) arrow function:
 ```javascript
 var Aquarium = (props) => {

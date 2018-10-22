@@ -93,3 +93,11 @@ ReactDOM.render(
     document.getElementById('root'));
 ```
 
+####Redux Test Errors
+Invariant Violation: Could not find `store` in either the context or props of `connect(CommentBox)`.
+Either wrap the root component in a `<Provider>`, or explicitly pass `store` as a prop to `connect(CommentBox)`.
+
+TypeError: Cannot read property '`map`' of undefined.
+Because `axios` fails in command line environment, then use `moxios`.
+
+For mock API, [Json Placeholder](http://jsonplaceholder.typicode.com/) is free to ues.
