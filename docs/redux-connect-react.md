@@ -1,6 +1,6 @@
 ## How to connect Redux to React?
 
-They are connected via a package called "react-redux".
+They are connected via a package called `react-redux`.
 
 ###### <Provider>
 in index.js or a root js file
@@ -39,12 +39,14 @@ connect(mapStateToProps, mapDispatchToProps)(WrappedComponent);
 Redux can put action creators to the connect function.
 ```jsx
 import * as actions from '../actions'; // import action creators
-connect(mapStateToProps, actions)(WrappedComponent);
+
+export default connect(mapStateToProps, actions)(WrappedComponent);
 ```
 
 Or
 ```jsx
 import { fetchUsers } as actions from '../actions'; // import action creators
-connect(mapStateToProps, { fetchUsers })(WrappedComponent);
+
+export default connect(mapStateToProps, { fetchUsers })(WrappedComponent);
 ```
 

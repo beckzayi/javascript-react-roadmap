@@ -5,6 +5,7 @@ As there are so many web technologies that developers need to learn, we here try
 ## JavaScript
 
 * [ES6 Features](/docs/es6-features.md)
+* [Immutable JavaScript](/docs/js-immutable.md)
 
 ## React
 

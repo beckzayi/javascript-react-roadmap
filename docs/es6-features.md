@@ -7,7 +7,7 @@ var removeUser = (id) => {
 }
 ```
 
-* Block Scope
+* Block Scope\
 let vs var
 ```javascript
 let
