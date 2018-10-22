@@ -5,8 +5,11 @@ The "elements" that `React.createElement()` returns are actually plain old JavaS
 
 
 There are three properties of a React Element:
+
 `type`: what type of HTML element to use. For example 'div'.
+
 `props`: the attributes on the element. For example, the style prop.
+
 `children`: specify the element's content; it can contain a string, another React Element, or an array (containing strings or React Elements)
 
 JSX with ES2015:
@@ -27,6 +30,7 @@ const App = (props) => {
 
 JavaScrpt tranpiled by Babel:
 ```javascript
+"use strict";
 var App = function App(props) {
     var myStyle = { backgroundColor: '#000' };
     return React.createElement(

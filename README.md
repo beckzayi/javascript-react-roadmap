@@ -13,6 +13,7 @@ As there are so many web technologies that developers need to learn, we here try
 * [`this`](/docs/react-bind-this.md)
 * [JSX](/docs/react-jsx.md)
 * [Jest](/docs/react-jest.md)
+* [prop-types](/docs/react-prop-types.md)
 
 ## Redux
 
