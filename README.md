@@ -12,6 +12,7 @@ As there are so many web technologies that developers need to learn, we here try
 * [Presentational Components](/docs/react-presentational-components.md)
 * [`this`](/docs/react-bind-this.md)
 * [`setState()`](/docs/react-setState.md)
+* [Higher Order Component](/docs/high-order-component.md)
 * [JSX](/docs/react-jsx.md)
 * [Jest](/docs/react-jest.md)
 * [prop-types](/docs/react-prop-types.md)
