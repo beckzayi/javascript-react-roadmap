@@ -11,7 +11,7 @@ function update(user = { id: 1, name: 'John' }, newUser = { name: 'Kate' }) {
 ```
 
 ```javascript
-function(user = { id: 1, name: 'John' }, newUser = { name: 'Kate' }) {
+function update(user = { id: 1, name: 'John' }, newUser = { name: 'Kate' }) {
     return Object.assign(user, newUser);
 }
 ```

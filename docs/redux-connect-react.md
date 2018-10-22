@@ -2,8 +2,7 @@
 
 They are connected via a package called `react-redux`.
 
-###### <Provider>
-in index.js or a root js file
+`<Provider>` - in index.js or a root js file
 ```jsx
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';
@@ -17,8 +16,7 @@ ReactDOM.render(
   document.getElementById('root'));
 ```
 
-###### connect()
-in a React component js file (WrappedComponent)
+`connect()` - in a React component js file (WrappedComponent)
 ```jsx
 import { connect } from 'react-redux';
 
