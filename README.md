@@ -15,4 +15,4 @@ As there are so many web technologies that developers need to learn, we here try
 * [How to connect Redux to React](/docs/redux-connect-react.md)
 
 ## MongoDB
-* [Start MongoDB](/docs/redux-basics.md)
+* [Start MongoDB](/docs/mongodb-basics.md)
