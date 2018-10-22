@@ -14,6 +14,9 @@ As there are so many web technologies that developers need to learn, we here try
 
 * [Redux Basics](/docs/redux-basics.md)
 * [How to connect Redux to React](/docs/redux-connect-react.md)
+* [Redux Middleware](/docs/redux-middleware.md)
+* [How Actions work](/docs/redux-actions.md)
+* [How Reducers work](/docs/redux-reducers.md)
 
 ## MongoDB
 * [Start MongoDB](/docs/mongodb-basics.md)

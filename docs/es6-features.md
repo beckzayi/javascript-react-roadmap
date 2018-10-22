@@ -16,7 +16,7 @@ const
 
 * Default Values and the Spread Operator
 ```javascript
-function(state = {}, action) {
+function addUser(state = {}, action) {
     switch (action.type) {
         case 'FETCH_USERS':
             return state;

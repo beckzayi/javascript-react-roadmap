@@ -1,5 +1,13 @@
 # Redux Basics
 
+In short, a few steps to set up Redux in React.
+1. `npm install redux react-redux`
+2. index.js - import `Provider` and use `createStore`
+3. component js file, use `connect()` method to connect the component with Redux
+4. Action creators
+5. Reducers
+6. `applyMiddleware([redux-thunk, redux-logger])` optional
+
 There are 5 main functions in Redux.
 
 ```javascript
