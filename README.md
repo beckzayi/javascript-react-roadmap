@@ -9,6 +9,9 @@ As there are so many web technologies that developers need to learn, we here try
 
 ## React
 * [Install React and Webpack from scratch](/docs/react-install-scratch.md)
+* [Presentational Components](/docs/react-presentational-components.md)
+* [`this`](/docs/react-bind-this.md)
+* [JSX](/docs/react-jsx.md)
 * [Jest](/docs/react-jest.md)
 
 ## Redux

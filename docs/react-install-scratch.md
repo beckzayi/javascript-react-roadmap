@@ -1,6 +1,6 @@
 ## Install React and Webpack from scratch
 
-`npx create-react-app` provides a simple way to create React app. If intereted, we can create it from scratch and see what is inside.
+`npx create-react-app` provides a simple way to create React app. If interested, we can create it from scratch and see what is inside.
 
 Below are only brief steps.
 
