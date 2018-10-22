@@ -19,7 +19,7 @@ import { createStore, applyMiddleware } from 'redux';
 import { Provider } from "react-redux";
 import reduxThunk from 'redux-thunk';
 
-const store = createStore(rootReducers, applyMiddleware(thunk));
+const store = createStore(rootReducers, applyMiddleware(reduxThunk));
 // And then, put store to <Provider>
 ```
 
@@ -35,5 +35,5 @@ export function fetchUsers() {
 If you want to add logger to middleware, simply to add to `applyMiddleware`.
 ```javascript
 const { logger } = require('redux-logger');
-const store = createStore(rootReducers, applyMiddleware([thunk, logger]));
+const store = createStore(rootReducers, applyMiddleware([reduxThunk, logger]));
 ```
