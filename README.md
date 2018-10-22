@@ -8,7 +8,7 @@ As there are so many web technologies that developers need to learn, we here try
 * [Immutable JavaScript](/docs/js-immutable.md)
 
 ## React
-
+* [Jest](/docs/react-jest.md)
 
 ## Redux
 
