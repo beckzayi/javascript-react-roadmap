@@ -26,7 +26,8 @@ As there are so many web technologies that developers need to learn, we here try
 * [How Reducers work](/docs/redux-reducers.md)
 
 ## Node.js
-* [Hide development code on production](/docs/redux-avoid-development-code.md)
+* [Hide development code on production](/docs/node-avoid-development-code.md)
+* [Logging](/docs/node-logging.md)
 
 ## MongoDB
 * [Start MongoDB](/docs/mongodb-basics.md)
