@@ -31,6 +31,7 @@ As there are so many web technologies that developers need to learn, we here try
 ## Node.js
 * [Hide development code on production](/docs/node-avoid-development-code.md)
 * [Logging](/docs/node-logging.md)
+* [User Authentication](/docs/node-user-authentication.md)
 
 ## MongoDB
 * [Start MongoDB](/docs/mongodb-basics.md)

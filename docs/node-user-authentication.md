@@ -62,8 +62,4 @@ module.exports.User = User;
 ```
 
 Finally we can use REST Client, such Postman, to post data in json format.
-```{
-    "name": "your name",
-    "email": "your@email.com",
-    "password": "123"
-}```
+`{ "name": "your name", "email": "your@email.com", "password": "123" }`
