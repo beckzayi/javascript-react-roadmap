@@ -1,6 +1,6 @@
 ## React Component re-rendering
 
-#### Avoid Multiple re-rendering
+#### Avoid multiple re-rendering
 
 ```jsx
 // Not to re-render the Header component when update
