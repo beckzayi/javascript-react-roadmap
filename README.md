@@ -6,6 +6,7 @@ As there are so many web technologies that developers need to learn, we here try
 
 * [ES6 Features](/docs/es6-features.md)
 * [Immutable JavaScript](/docs/js-immutable.md)
+* [Above the fold loading](/docs/js-above-the-fold-loading.md)
 
 ## React
 * [Install React and Webpack from scratch](/docs/react-install-scratch.md)
@@ -14,6 +15,8 @@ As there are so many web technologies that developers need to learn, we here try
 * [`setState()`](/docs/react-setState.md)
 * [Higher Order Component](/docs/high-order-component.md)
 * [JSX](/docs/react-jsx.md)
+* [re-rendering - `shouldComponentUpdate()`](/docs/react-shouldComponentUpdate.md)
+* [Code Splitting](/docs/react-code-splitting.md)
 * [Jest](/docs/react-jest.md)
 * [prop-types](/docs/react-prop-types.md)
 
