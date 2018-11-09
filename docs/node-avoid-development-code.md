@@ -27,8 +27,9 @@ const store = createStore(reducers, applyMiddleware(...middlewares));
 ```
 
 `process.env.PUBLIC_URL`
+
 when navigating to GitHub Pages link, nothing might shows up. Why was the app working perfectly fine locally but not on a server? Enter the mysterious, ethereal `process.env.PUBLIC_URL`. Below is an example in a React app.
-```javascript```
+```jsx```
 <Router basename={process.env.PUBLIC_URL}>
   <App />
 </Router>
