@@ -19,6 +19,7 @@ As there are so many web technologies that developers need to learn, we here try
 * [Code Splitting](/docs/react-code-splitting.md)
 * [Jest](/docs/react-jest.md)
 * [prop-types](/docs/react-prop-types.md)
+* [Workflow](/docs/react-workflow.md)
 
 ## Redux
 
